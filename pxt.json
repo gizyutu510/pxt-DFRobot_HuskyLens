@@ -11,6 +11,8 @@
         "_locales/zh-cn/Huskylens-strings.json",
         "i2c.cpp",
         "_locales/zh-tw/Huskylens-strings.json",
+        "_locales/ja/Huskylens-strings.json",
+        "_locales/ja/huskylens-strings.json",
         "shims.d.ts",
         "enums.d.ts"
     ],
