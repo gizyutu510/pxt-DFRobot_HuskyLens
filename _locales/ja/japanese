@@ -32,9 +32,6 @@
     "HUSKYLENSMode.LOAD|block": "読み込み",
     "HUSKYLENSphoto.PHOTO|block": "写真",
     "HUSKYLENSphoto.SCREENSHOT|block": "スクリーンショット"
-}
-
-{
     "huskylens.initI2c|block": "HuskyLensをI2Cで初期化する（成功するまで）",
     "huskylens.initMode|block": "HuskyLensのアルゴリズムを %mode に切り替える",
     "huskylens.request|block": "HuskyLensにデータを1回リクエストして結果に保存する",
